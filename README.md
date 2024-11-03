@@ -19,12 +19,16 @@
   - [ ] JSON inválido, com a chave "age" com um valor não numérico
   - [ ] JSON inválido, não sendo um objeto
 
+---
+
 - [ ] Criação de uma função assíncrona que obtém um usuário de um banco de dados
 - [ ] Criação de testes unitários para os seguintes cenários
   - [ ] Usuário encontrado
   - [ ] Erro ao buscar o usuário, id não é um número
   - [ ] Usuário não encontrado
   - [ ] Erro ao buscar o usuário, banco de dados indisponível
+
+---
 
 - [ ] Criação de uma função assíncrona que cria um usuário no banco de dados
 - [ ] Criação de testes unitários para os seguintes cenários
